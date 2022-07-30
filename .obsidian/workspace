@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "f61a108813dbd165",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda30081cea7606f",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Pasted image 20220305171617.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "427f3d3cdbb0a55e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc3c8131e85a3ab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6d5f890a1f9736b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234
+  },
+  "right": {
+    "id": "2df612ce8fca95ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c34cfe3bb60765f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65fe23deecad7158",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20220305171617.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fbbf4ea0f65ed9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "fda30081cea7606f",
+  "lastOpenFiles": [
+    "Pasted image 20220305171617.png",
+    "Pasted image 20220305113801.png",
+    "Pasted image 20220305113807.png",
+    "Pasted image 20220305113308.png.md",
+    "Challenges/Gunship/001 Prototype exploit.md",
+    "Principles Of Security/004 Security Models Continued.md",
+    "Principles Of Security/005 Threat Modelling & Incident Response.md",
+    "Principles Of Security/003 Principles of Privileges.md",
+    "Pentesting Fundamentals/002 Penetration Testing Methodologies.md",
+    "Pentesting Fundamentals/003 Black, White, Grey box pentesting.md"
+  ]
+}
